@@ -31,4 +31,5 @@ The Snack Machine has the following characteristics:
 <div>
  <img src="https://user-images.githubusercontent.com/81507185/166120089-f0c85094-9746-4fe6-a83f-988046899e2d.png" width="120" height="112.5"/>
  <img src="https://user-images.githubusercontent.com/81507185/166120215-e985eeec-d451-4894-890a-cbf48ad36b0c.png" width="410" height="116"/>
+ <img src="https://user-images.githubusercontent.com/81507185/166122510-d76ddaf3-350f-433f-85e2-0802dcadc5b6.png" width="270" height="90"/>
 </div>
