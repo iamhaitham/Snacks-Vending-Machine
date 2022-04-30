@@ -9,7 +9,7 @@ import machine.snack.factory.Snack;
 import machine.snack.validators.MoneyValidator;
 
 public class OneCSnack extends Snack implements ISnack {
-	private final String NAME = "OneCSnack";
+	private final String NAME = "One C";
 	private static final int PRICE = 70;
 	private static int quantity = 7;
 
